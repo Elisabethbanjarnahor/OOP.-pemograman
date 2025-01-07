@@ -3,20 +3,21 @@
 # link program #
 
 
-# penjelasan kode program yang pertama #
-=>Kelas Barang
-Kelas Barang ini seperti membuat cetakan untuk semua barang yang ada di toko.
-Setiap barang punya nama, harga, dan jumlah.
-Ada fungsi hitung_total yang fungsinya menghitung total harga untuk satu jenis barang (harga dikali jumlah).
-Ada fungsi __str__ yang fungsinya untuk menampilkan informasi barang dalam bentuk yang mudah dibaca, misalnya "2 x Buku = Rp 40.000,00".
+# penjelasan kode program yang pertama class Data #
+=>Kelas Barang:
+Ini adalah kelas data.
+Fungsi: Merepresentasikan data atau informasi tentang sebuah barang, seperti nama, harga, dan jumlah.
+Atribut: nama, harga, dan jumlah adalah atribut dari kelas Barang. Atribut ini menyimpan data spesifik untuk setiap objek Barang yang dibuat.
+Metode: hitung_total adalah metode yang digunakan untuk menghitung total harga sebuah barang.
 
-# Penjelasan kode yang kedua #
-
-Kelas Kasir
-Kelas Kasir ini seperti seorang kasir yang mengelola semua barang yang dibeli pelanggan.
-Kasir punya daftar belanja (daftar_barang) untuk menyimpan semua barang yang dipilih pelanggan.
-Ada fungsi tambah_barang untuk menambahkan barang baru ke daftar belanja.
-Ada fungsi hitung_total_semua untuk menghitung total harga semua barang di daftar belanja.
-Ada fungsi tampilkan_struk untuk menampilkan rincian belanja dan total yang harus dibayar.
+# Penjelasan kode yang kedua class view dan class process #
+Kelas Kasir:
+Ini bisa dianggap sebagai kombinasi antara kelas view dan kelas proses.
+Fungsi: Mengelola transaksi penjualan, mulai dari menambahkan barang ke keranjang, menghitung total belanja, hingga menampilkan struk.
+Atribut: daftar_barang adalah atribut yang menyimpan daftar objek Barang yang telah ditambahkan ke keranjang.
+Metode:
+tambah_barang: Berinteraksi dengan pengguna untuk meminta input data barang baru dan menambahkannya ke daftar belanja. Ini bisa dianggap sebagai bagian dari view karena berinteraksi langsung dengan pengguna.
+hitung_total_semua: Menghitung total harga semua barang di keranjang. Ini bisa dianggap sebagai bagian dari proses karena melakukan perhitungan.
+tampilkan_struk: Menampilkan hasil perhitungan dalam bentuk struk belanja. Ini juga bisa dianggap sebagai bagian dari view.
 
 # Hasil output #
