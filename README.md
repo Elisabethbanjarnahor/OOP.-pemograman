@@ -2,6 +2,8 @@
 
 # link program #
 
+https://tpcg.io/_UYP9AG
+
 
 # penjelasan kode program yang pertama class Data #
 =>Kelas Barang:
