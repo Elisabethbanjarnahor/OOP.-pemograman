@@ -22,4 +22,3 @@ tambah_barang: Berinteraksi dengan pengguna untuk meminta input data barang baru
 hitung_total_semua: Menghitung total harga semua barang di keranjang. Ini bisa dianggap sebagai bagian dari proses karena melakukan perhitungan.
 tampilkan_struk: Menampilkan hasil perhitungan dalam bentuk struk belanja. Ini juga bisa dianggap sebagai bagian dari view.
 
-# Hasil output #
