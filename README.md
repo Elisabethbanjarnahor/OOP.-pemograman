@@ -1,4 +1,4 @@
-# OOP.-pemograman
+# OOP.-pemrograman
 
 # link program #
 
@@ -18,3 +18,5 @@ Kasir punya daftar belanja (daftar_barang) untuk menyimpan semua barang yang dip
 Ada fungsi tambah_barang untuk menambahkan barang baru ke daftar belanja.
 Ada fungsi hitung_total_semua untuk menghitung total harga semua barang di daftar belanja.
 Ada fungsi tampilkan_struk untuk menampilkan rincian belanja dan total yang harus dibayar.
+
+# Hasil output #
