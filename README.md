@@ -1,8 +1,8 @@
 # OOP.-pemrograman
 
 # link program #
+https://drive.google.com/file/d/1aZSJF8M_PM0O1HaTrqGevbK1FUS5EX6_/view?usp=sharing
 
-https://tpcg.io/_UYP9AG
 
 
 # penjelasan kode program yang pertama class Data #
@@ -22,3 +22,4 @@ tambah_barang: Berinteraksi dengan pengguna untuk meminta input data barang baru
 hitung_total_semua: Menghitung total harga semua barang di keranjang. Ini bisa dianggap sebagai bagian dari proses karena melakukan perhitungan.
 tampilkan_struk: Menampilkan hasil perhitungan dalam bentuk struk belanja. Ini juga bisa dianggap sebagai bagian dari view.
 
+# hasil output #
