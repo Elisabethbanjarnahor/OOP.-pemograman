@@ -12,15 +12,20 @@ Fungsi: Merepresentasikan data atau informasi tentang sebuah barang, seperti nam
 Atribut: nama, harga, dan jumlah adalah atribut dari kelas Barang. Atribut ini menyimpan data spesifik untuk setiap objek Barang yang dibuat.
 Metode: hitung_total adalah metode yang digunakan untuk menghitung total harga sebuah barang.
 
-# Penjelasan kode yang kedua class view dan class process #
-Kelas Kasir:
-Ini bisa dianggap sebagai kombinasi antara kelas view dan kelas proses.
-Fungsi: Mengelola transaksi penjualan, mulai dari menambahkan barang ke keranjang, menghitung total belanja, hingga menampilkan struk.
-Atribut: daftar_barang adalah atribut yang menyimpan daftar objek Barang yang telah ditambahkan ke keranjang.
-Metode:
-tambah_barang: Berinteraksi dengan pengguna untuk meminta input data barang baru dan menambahkannya ke daftar belanja. Ini bisa dianggap sebagai bagian dari view karena berinteraksi langsung dengan pengguna.
-hitung_total_semua: Menghitung total harga semua barang di keranjang. Ini bisa dianggap sebagai bagian dari proses karena melakukan perhitungan.
-tampilkan_struk: Menampilkan hasil perhitungan dalam bentuk struk belanja. Ini juga bisa dianggap sebagai bagian dari view.
+# Penjelasan kode yang kedua class view #
+Kelas View:
+
+Kelas Struk: Ini adalah kelas yang bertanggung jawab untuk menampilkan informasi dalam format yang mudah dibaca oleh pengguna. Dalam konteks program ini, kelas Struk menampilkan struk belanja. Jadi, secara langsung, kelas Struk berperan sebagai kelas view.
+
+# penjelasan kelas process #
+Kelas Proses:
+
+Kelas Kasir: Kelas ini menangani logika utama dari program, seperti:
+Menambahkan barang ke daftar belanja.
+Menghitung total harga.
+Memanggil kelas Struk untuk menampilkan struk.
+Berinteraksi dengan pengguna melalui input dan output.
+Karena kelas Kasir mengelola alur program dan interaksi dengan pengguna, maka dapat dianggap sebagai kelas proses atau controller.
 
 # hasil output #
 ![foto](https://github.com/Elisabethbanjarnahor/Foto/blob/13b3e596d10fb63acdad8f1fb57816c897b1e4fb/WhatsApp%20Image%202025-01-08%20at%2011.48.15_e6335c52.jpg)
