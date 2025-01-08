@@ -23,3 +23,6 @@ hitung_total_semua: Menghitung total harga semua barang di keranjang. Ini bisa d
 tampilkan_struk: Menampilkan hasil perhitungan dalam bentuk struk belanja. Ini juga bisa dianggap sebagai bagian dari view.
 
 # hasil output #
+![foto](https://github.com/Elisabethbanjarnahor/Foto/blob/13b3e596d10fb63acdad8f1fb57816c897b1e4fb/WhatsApp%20Image%202025-01-08%20at%2011.48.15_e6335c52.jpg)
+
+
